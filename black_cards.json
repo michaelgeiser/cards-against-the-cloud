@@ -1,0 +1,413 @@
+{
+  "name": "Cards Against the Cloud",
+  "version": "1.0.0",
+  "copyright": "Geisersoft (www.geisersoft.com)",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://github.com/michaelgeiser/cards-against-the-cloud/",
+  "deck": "black",
+  "description": "Prompt cards. 'pick' is how many white cards the answer requires; blanks are seven underscores.",
+  "count": 100,
+  "cards": [
+    {
+      "text": "My deployment failed because of _______.",
+      "pick": 1
+    },
+    {
+      "text": "The root cause analysis concluded it was _______.",
+      "pick": 1
+    },
+    {
+      "text": "Why is the bill $80,000 this month?",
+      "pick": 1
+    },
+    {
+      "text": "Our disaster recovery plan is just _______.",
+      "pick": 1
+    },
+    {
+      "text": "What did the CISO find in the S3 bucket?",
+      "pick": 1
+    },
+    {
+      "text": "What's in my Terraform state file?",
+      "pick": 1
+    },
+    {
+      "text": "_______. That'll be $47,000.",
+      "pick": 1
+    },
+    {
+      "text": "The new AWS service is basically _______ with a worse name.",
+      "pick": 1
+    },
+    {
+      "text": "What woke me up at 3:07 a.m.?",
+      "pick": 1
+    },
+    {
+      "text": "Our Kubernetes cluster is held together by _______.",
+      "pick": 1
+    },
+    {
+      "text": "What does \"cloud native\" actually mean?",
+      "pick": 1
+    },
+    {
+      "text": "What did I terraform destroy by accident?",
+      "pick": 1
+    },
+    {
+      "text": "My Zero Trust architecture consists entirely of _______.",
+      "pick": 1
+    },
+    {
+      "text": "Azure is _______.",
+      "pick": 1
+    },
+    {
+      "text": "Google will deprecate _______ in eighteen months.",
+      "pick": 1
+    },
+    {
+      "text": "Nobody has ever used OCI for _______.",
+      "pick": 1
+    },
+    {
+      "text": "What did the intern push straight to main?",
+      "pick": 1
+    },
+    {
+      "text": "Before you can log in, please verify _______.",
+      "pick": 1
+    },
+    {
+      "text": "What's the real reason we're moving back on-prem?",
+      "pick": 1
+    },
+    {
+      "text": "My favorite part of being on call is _______.",
+      "pick": 1
+    },
+    {
+      "text": "AWS Support Case #8827301: \"Customer reports _______.\"",
+      "pick": 1
+    },
+    {
+      "text": "What does the Well-Architected Framework not cover?",
+      "pick": 1
+    },
+    {
+      "text": "_______ is why we can't have nice things.",
+      "pick": 1
+    },
+    {
+      "text": "The migration is 90% complete. The remaining 10% is _______.",
+      "pick": 1
+    },
+    {
+      "text": "What does the CEO think the cloud is?",
+      "pick": 1
+    },
+    {
+      "text": "My resume says \"subject matter expert in _______.\"",
+      "pick": 1
+    },
+    {
+      "text": "The vendor demo worked perfectly until _______.",
+      "pick": 1
+    },
+    {
+      "text": "What did the AI agent do with production credentials?",
+      "pick": 1
+    },
+    {
+      "text": "Our new AI strategy is just _______ with extra steps.",
+      "pick": 1
+    },
+    {
+      "text": "The security audit failed because of _______.",
+      "pick": 1
+    },
+    {
+      "text": "What am I actually thinking about during standup?",
+      "pick": 1
+    },
+    {
+      "text": "The hackathon produced _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the actual load-bearing component of our architecture?",
+      "pick": 1
+    },
+    {
+      "text": "Congratulations on your promotion to Senior Director of _______.",
+      "pick": 1
+    },
+    {
+      "text": "My therapist and I mostly talk about _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is a DevOps engineer's love language?",
+      "pick": 1
+    },
+    {
+      "text": "us-east-1 went down and took _______ with it.",
+      "pick": 1
+    },
+    {
+      "text": "What is the most expensive lesson I have ever learned?",
+      "pick": 1
+    },
+    {
+      "text": "Never put _______ in a Dockerfile.",
+      "pick": 1
+    },
+    {
+      "text": "What did the pentester find in the first five minutes?",
+      "pick": 1
+    },
+    {
+      "text": "Slack went down and the whole company discovered _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is this year's mandatory security training about?",
+      "pick": 1
+    },
+    {
+      "text": "What did I name the EC2 instance?",
+      "pick": 1
+    },
+    {
+      "text": "What is the vendor's answer to every single question?",
+      "pick": 1
+    },
+    {
+      "text": "The Gartner Magic Quadrant now has a category for _______.",
+      "pick": 1
+    },
+    {
+      "text": "What does \"serverless\" really mean?",
+      "pick": 1
+    },
+    {
+      "text": "Our compliance posture can best be described as _______.",
+      "pick": 1
+    },
+    {
+      "text": "I passed the certification. Now I finally understand _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the worst thing to find in a git history?",
+      "pick": 1
+    },
+    {
+      "text": "What is in the runbook?",
+      "pick": 1
+    },
+    {
+      "text": "The board deck says our key differentiator is _______.",
+      "pick": 1
+    },
+    {
+      "text": "The observability dashboard shows everything except _______.",
+      "pick": 1
+    },
+    {
+      "text": "The FinOps team would like a word with you about _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the real reason we chose this cloud provider?",
+      "pick": 1
+    },
+    {
+      "text": "The password policy requires one uppercase, one number, and _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the most cursed thing in our codebase?",
+      "pick": 1
+    },
+    {
+      "text": "Historians will remember 2026 as the year of _______.",
+      "pick": 1
+    },
+    {
+      "text": "What did the CTO say immediately after the demo?",
+      "pick": 1
+    },
+    {
+      "text": "Our SLA guarantees 99.99% _______.",
+      "pick": 1
+    },
+    {
+      "text": "Instead of documentation, we have _______.",
+      "pick": 1
+    },
+    {
+      "text": "Introducing Amazon _______, now generally available in one region.",
+      "pick": 1
+    },
+    {
+      "text": "What killed the startup?",
+      "pick": 1
+    },
+    {
+      "text": "What is the one question that ends every architecture review?",
+      "pick": 1
+    },
+    {
+      "text": "After nine months, the consultants recommended _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the DevOps equivalent of a mid-life crisis?",
+      "pick": 1
+    },
+    {
+      "text": "Never trust a system that relies on _______.",
+      "pick": 1
+    },
+    {
+      "text": "My infrastructure runs on caffeine, spite, and _______.",
+      "pick": 1
+    },
+    {
+      "text": "_______: the silent killer of quarterly margins.",
+      "pick": 1
+    },
+    {
+      "text": "The status page says \"investigating elevated error rates.\" The truth is _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the internet actually made of?",
+      "pick": 1
+    },
+    {
+      "text": "Blame the outage on _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is my safe word during a Sev 1?",
+      "pick": 1
+    },
+    {
+      "text": "What did I search for in incognito mode?",
+      "pick": 1
+    },
+    {
+      "text": "Nothing turns me on quite like _______.",
+      "pick": 1
+    },
+    {
+      "text": "My browser history is 90% Stack Overflow and 10% _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is trending on Hacker News?",
+      "pick": 1
+    },
+    {
+      "text": "The LinkedIn thought leader posted a 400-word essay about _______.",
+      "pick": 1
+    },
+    {
+      "text": "Crypto bros have officially pivoted to _______.",
+      "pick": 1
+    },
+    {
+      "text": "The Reddit thread eventually devolved into _______.",
+      "pick": 1
+    },
+    {
+      "text": "The dark web is currently selling _______.",
+      "pick": 1
+    },
+    {
+      "text": "What is the sexiest thing about a well-architected system?",
+      "pick": 1
+    },
+    {
+      "text": "What is the one thing an LLM cannot hallucinate its way out of?",
+      "pick": 1
+    },
+    {
+      "text": "_______ plus _______ equals a three-day outage.",
+      "pick": 2
+    },
+    {
+      "text": "Our incident response process: first _______, then _______.",
+      "pick": 2
+    },
+    {
+      "text": "Every architecture diagram needs exactly two things: _______ and _______.",
+      "pick": 2
+    },
+    {
+      "text": "The pitch deck says we are \"the _______ of _______.\"",
+      "pick": 2
+    },
+    {
+      "text": "Step one: _______. Step two: _______. Step three: profit.",
+      "pick": 2
+    },
+    {
+      "text": "My side project is _______, but for _______.",
+      "pick": 2
+    },
+    {
+      "text": "The new platform combines the reliability of _______ with the pricing of _______.",
+      "pick": 2
+    },
+    {
+      "text": "Our multi-cloud strategy is _______ in one region and _______ in another.",
+      "pick": 2
+    },
+    {
+      "text": "The postmortem timeline: 02:14 _______. 02:15 _______.",
+      "pick": 2
+    },
+    {
+      "text": "The job posting requires ten years of _______ and a passion for _______.",
+      "pick": 2
+    },
+    {
+      "text": "Nothing says \"enterprise ready\" like _______ and _______.",
+      "pick": 2
+    },
+    {
+      "text": "First we tried _______. Then, in desperation, _______.",
+      "pick": 2
+    },
+    {
+      "text": "Our security model is _______ wrapped in _______.",
+      "pick": 2
+    },
+    {
+      "text": "The DR runbook for a regional outage: first _______, then _______, and finally _______.",
+      "pick": 3
+    },
+    {
+      "text": "Three things are required for a successful cloud migration: _______, _______, and _______.",
+      "pick": 3
+    },
+    {
+      "text": "The full stack, top to bottom: _______, _______, and _______.",
+      "pick": 3
+    },
+    {
+      "text": "My tech stack is _______, _______, and a deep unwillingness to change.",
+      "pick": 2
+    },
+    {
+      "text": "The vendor promised _______, delivered _______, and invoiced us for _______.",
+      "pick": 3
+    }
+  ]
+}
