@@ -44,6 +44,19 @@ The two card documents are laid out nine cards per page at 2.5 by 3.5 inches, th
 
 Cardstock in the 200 to 300 gsm range feels like a real deck. Plain paper works fine for a first playtest and costs almost nothing, which is more than can be said for the subject matter. Print the white deck first, because the black cards use a full bleed black fill and will make your printer file a complaint with HR.
 
+## Customize it
+
+`CAtC_WHITE-CARDS_Template.docx` and `CAtC_BLACK-CARDS_Template.docx` are starter kits for writing your own cards. Same 2.5 by 3.5 inch layout, same footer, same rules, just empty, with a few sample pages left in so you can see the format before you delete them and start typing your own regrets.
+
+A few rules for not breaking the layout:
+
+- Leave the card size, the footer, and the logo alone. Replace the prompt or answer text only.
+- If a line wraps past two lines of type, it is too long. Cut it down.
+- On black cards, blanks are seven underscores (`_______`). Count the blanks to get your Pick number, and type `PICK 2` or `PICK 3` in the bottom right corner to match. Leave it off for a single blank. This is the one way to actually break the game, so double check it before you print four hundred copies.
+- One card, one thought. If you have two good ideas, that is two cards.
+
+The templates carry the same CC BY 4.0 license as the rest of the deck, so you can build an expansion, print it for your team, or sell it, as long as you credit Geisersoft and say what you changed. See the [License](#license) section below for the details.
+
 ## What is in this repo
 
 | File | What it is |
@@ -51,6 +64,8 @@ Cardstock in the 200 to 300 gsm range feels like a real deck. Plain paper works 
 | `Cards_Against_the_Cloud_INSTRUCTIONS.docx` | Rules of play, house rules, printing notes |
 | `Cards_Against_the_Cloud_BLACK_CARDS.docx` | 100 prompt cards, print ready |
 | `Cards_Against_the_Cloud_WHITE_CARDS.docx` | 450 answer cards, print ready |
+| `CAtC_BLACK-CARDS_Template.docx` | Word Template to allow you to make your Black own cards |
+| `CAtC_WHITE-CARDS_Template.docx` | Word Template to allow you to make your White own cards |
 | `CAtC_hero.png` | The image at the top of this page |
 | `LICENSE` | Creative Commons Attribution 4.0 International |
 
